@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.40.188.51/install/pangdan.ipa</string>
+					<string>http://121.40.188.51/install/toumaps.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,15 +31,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>67Z5T2Y5E2.com.sicong</string>
+				<string>TPCK7LX7GK.com.toumaps</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>思聪</string>
+				<string>兔游</string>
 				<key>title</key>
-				<string>思聪记账</string>
+				<string>兔游</string>
 			</dict>
 		</dict>
 	</array>
